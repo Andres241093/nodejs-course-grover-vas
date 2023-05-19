@@ -1,0 +1,6 @@
+{
+    "name": "API REST NODEJS COURSE",
+    "configDB": {
+        "host": "test-server-default"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "API REST NODEJS COURSE - PROD",
+    "configDB": {
+        "host": "test-server-prod"
+    }
+}
